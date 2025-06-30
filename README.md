@@ -2,7 +2,11 @@
 
 An interactive drag-and-drop animation playground inspired by Scratch, built using **React**, **TailwindCSS**, and **Webpack**.
 
-### 🌐 Live
+### 🌐 Live 
+> ⚠️ **Note:**  
+> This app is hosted on [Render](https://render.com), which may take **30–60 seconds** to start if it has been idle.  
+> You may initially see a `502 Bad Gateway` error — please wait a moment and refresh the page. The server will start shortly. 🙏
+
 👉 [View Deployed App](https://dragdrop-play.onrender.com)
 
 ---
