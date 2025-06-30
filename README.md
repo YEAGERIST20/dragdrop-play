@@ -12,7 +12,8 @@ An interactive drag-and-drop animation playground inspired by Scratch, built usi
 ---
 ## 📽️ Screen Recording
 
-👉 [Watch Screen Recording on Google Drive](https://drive.google.com/file/d/1YgGxYIAgV7GE_-K-kSaei4mXTNvYd_1S/view?usp=sharing)
+<a href="https://youtu.be/sr1jhe3etdE" target="_blank"> <img src="https://img.youtube.com/vi/sr1jhe3etdE/hqdefault.jpg" alt="Watch Demo on YouTube" width="600" style="cursor: pointer;" /> </a>
+
 
 -------
 
