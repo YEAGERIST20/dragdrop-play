@@ -80,12 +80,14 @@ cd dragdrop-play
 npm install
 ```
 
-### 3. Run Locally
+### 3. Build for Production
+```bash
+npm run build
+```
+
+### 4. Run Locally
 ```bash
 npm start
 ```
 
-### 4. Build for Production
-```bash
-npm run build
-```
+
