@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "webpack serve --config webpack.dev.js",
+    "start": "serve -s build -l $PORT",
     "build": "webpack --config webpack.prod.js"
   },
   "dependencies": {
@@ -11,6 +11,7 @@
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.3.1",
+    "serve": "^14.2.4",
     "tailwindcss": "^2.0.1"
   },
   "devDependencies": {
